@@ -1,7 +1,7 @@
 # Windows Forms App with C++ and .NET Framework
 This is a project template made for [Microsoft Visual Studio IDE](https://visualstudio.microsoft.com/). This template can be used to make GUI Applications for Windows using [Windows Forms](https://docs.microsoft.com/en-us/dotnet/desktop/winforms/?view=netframeworkdesktop-4.8) user interface. It can be compiled using [Microsoft Visual C++ (MSVC)](https://docs.microsoft.com/en-us/cpp/windows/overview-of-windows-programming-in-cpp?view=msvc-160) and [.NET Framework](https://dotnet.microsoft.com/download/dotnet-framework). Applications built like this runs using Microsoft's [common language runtime (CLR)](https://docs.microsoft.com/en-us/dotnet/standard/clr) library.
 
-The Latest version of Visual Studio as of writing this, already contains Windows Forms App template for [c#](https://docs.microsoft.com/en-us/dotnet/csharp/) and [Visual Basic](https://docs.microsoft.com/en-us/dotnet/visual-basic/). The Visual C++ template for the same was removed for some reason. Thats why I made this template for people who can't figure out how to start making a Windows Forms App using C++.
+The Latest version of Visual Studio as of writing this, contains Windows Forms App template for [Visual C#](https://docs.microsoft.com/en-us/dotnet/csharp/) and [Visual Basic](https://docs.microsoft.com/en-us/dotnet/visual-basic/) by default. The Visual C++ template for the same was removed for some reason. Thats why I made this template for people who can't figure out how to start making a Windows Forms App using C++.
 
 ## Prerequisites:
 Visual Studios should be installed along with the following workloads:
